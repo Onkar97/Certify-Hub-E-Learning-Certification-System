@@ -1,6 +1,6 @@
-# Certi Learn – E-Learning & Certification System
+# Certify Hub – E-Learning & Certification System
 
-Certi Learn is a Spring Boot–based e-learning platform designed to simplify the process of online learning, quiz management, and automated certification.  
+Certify Hub is a Spring Boot–based e-learning platform designed to simplify the process of online learning, quiz management, and automated certification.  
 It provides role-based access for students, instructors, and administrators, integrates secure authentication, and delivers certificates instantly after quiz completion.
 
 ---
